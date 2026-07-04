@@ -1,6 +1,4 @@
-// Name = Naeem ul haq
-// ID= 0665
-// printing a triangle
+
 #include <iostream>     // tells the compiler to include input output stream library
 using namespace std;    // tells the compier to use standard namespace std:: for each cin and cout
 
