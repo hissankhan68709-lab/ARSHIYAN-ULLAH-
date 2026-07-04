@@ -1,5 +1,4 @@
-//NAME= NAEEM UL HAQ
-//ID = 0665
+
 #include <iostream> //tells the compiler to include input output stream librry
 using namespace std; // tells the compiler to use standard namespace std:: for each cin and cout 
                      // without having need to write separately
