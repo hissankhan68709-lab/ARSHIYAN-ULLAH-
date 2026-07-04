@@ -1,5 +1,4 @@
-//NAME=Naeem Ul Haq
-//ID= 0665
+
 #include <iostream>    // tells the compiler to include input output stream library
 using namespace std;   // tells the compiler to use standard namespace std:: for each cin and cout
 
